@@ -329,7 +329,7 @@ img, picture, svg {
     margin-left: 24px;
 }
 .under__text {
-    font-family: "Open Sans";
+    font-family: "Open Sans", sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 143%;
